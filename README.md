@@ -6,7 +6,7 @@
 - Gabriel Przybysewski Schon
 - Matheus Oriveira
 
-## Empresasa
+## Empresas
 
 ### Internacionais
 
