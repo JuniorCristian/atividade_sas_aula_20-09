@@ -6,8 +6,9 @@
 - Gabriel Przybysewski Schon
 - Matheus Oriveira
 
+## Empresasa
 
-### Empresas Internacionais
+### Internacionais
 
 #### SANS
 - Foco em certificação GIAC e treinamento desde o mais básico até o avançado
@@ -72,7 +73,7 @@ Cibersegurança
 Associação de membros para líderes em cibersegurança. (sem fins lucrativos)
 
 
-### No Brasil
+### Nacionais
 
 
 #### Cisco
