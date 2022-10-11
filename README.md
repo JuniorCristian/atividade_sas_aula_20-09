@@ -1,10 +1,10 @@
 # Atividade Emprersas de Segurança
 ## Alunos
 - Cristian Robert Belão de Meira Junior
-- Felipe de Oliveira
+- Felipe Rodrigues da Silva
 - Douglas Cristiano Morona
 - Gabriel Przybysewski Schon
-- Matheus Oriveira
+- Matheus Moreira dos Santos Correia
 
 ## Empresas
 
