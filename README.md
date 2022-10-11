@@ -1,11 +1,13 @@
 # Atividade Emprersas de Segurança
 ## Alunos
 - Cristian Robert Belão de Meira Junior
-- Felipe Rodrigues da Silva
+- Felipe de Oliveira
 - Douglas Cristiano Morona
 - Gabriel Przybysewski Schon
 - Matheus Oriveira
 
+
+### Empresas Internacionais
 
 #### SANS
 - Foco em certificação GIAC e treinamento desde o mais básico até o avançado
